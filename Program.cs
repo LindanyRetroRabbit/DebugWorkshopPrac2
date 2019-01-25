@@ -30,6 +30,7 @@ namespace debugws2
     {
       var p = new Program();
       Console.WriteLine("Total: {0}", p.sum());
+            Console.ReadLine();
     }
   }
 }
